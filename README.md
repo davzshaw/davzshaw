@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavShaw?tab=repositories](https://github.com/DavShaw?tab=repositories)
 
-- 📫 How to reach me **horwhat0246@gmail.com**
+- 📫 Contact me **horwhat0246@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
