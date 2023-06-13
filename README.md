@@ -1,4 +1,4 @@
-<img align='right' src='https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy-downsized-large.gif' width='200'>
+<img align='right' src='https://github.com/DavShaw/DavShaw/blob/main/geometry.gif' width='200'>
 
 <h1 align="center">Hey there! 👋, I'm David</h1>
 <h3 align="center">I am a Systems Engineering student from Colombia, passionate about Backend development and a Java enthusiast.</h3>
