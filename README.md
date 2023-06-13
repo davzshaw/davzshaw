@@ -1,3 +1,5 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <h1 align="center">Hey there! 👋, I'm David</h1>
 <h3 align="center">I am a Systems Engineering student from Colombia, passionate about Backend development and a Java enthusiast.</h3>
 
