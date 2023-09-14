@@ -1,7 +1,6 @@
 <img align='center' src='https://github.com/DavShaw/DavShaw/blob/main/dynamic geometry.gif' width='200'>
 
-<h1 align="center"><font color="red">System.out.println("Hey, there, I'm David");</font></h1>
-
+**System.out.println**("Hey, there, I'm David");
 
 <h3 align="center">I am a Systems Engineering student from Colombia, passionate about Backend development and a Java enthusiast.</h3>
 
