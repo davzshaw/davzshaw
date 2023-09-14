@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **Universidad de Medellín**
 
-- 🌱 I’m currently learning **Clean code, dynamic data structure, HTML, CSS, JavaScript and Django :)**
+- 🌱 I’m currently learning **Clean code, dynamic data structure and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavShaw?tab=repositories](https://github.com/DavShaw?tab=repositories)
 
