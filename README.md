@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavShaw?tab=repositories](https://github.com/DavShaw?tab=repositories)
 
-- 📫 Contact me **horwhat0246@gmail.com**
+- 📫 Contact me **david.carrillo.torres.0246@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
