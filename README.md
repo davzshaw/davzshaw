@@ -4,7 +4,7 @@
 
 <h1 align="center">System.out.println("Hey, there, I'm David");</h1>
 
-<h3 align="center">I am a Systems Engineering student from Colombia, passionate about Backend development and a Java enthusiast.</h3>
+<h3 align="center">I am a Software Engineering student from Colombia, passionate about Backend development and a Java enthusiast.</h3>
 
 - 🔭 I’m currently studying on **Universidad de Medellín**
 
