@@ -1,4 +1,4 @@
-<img align='center' src='https://github.com/DavShaw/DavShaw/blob/main/dynamic geometry.gif' width='200'>
+<img align='center' src='https://github.com/davzshaw/davzshaw/blob/main/dynamic geometry.gif' width='200'>
 
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Enterprise Architecture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DavShaw?tab=repositories](https://github.com/DavShaw?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/davzshaw?tab=repositories](https://github.com/davzshaw?tab=repositories)
 
 - 📫 Contact me **david.carrillo.torres.0246@gmail.com**
 
@@ -50,6 +50,6 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=DavShaw&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=DavShaw&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavShaw&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=davzshaw&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=davzshaw&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davzshaw&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
