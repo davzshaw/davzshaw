@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying on **Universidad de Medellín**
 
-- 🌱 I’m currently learning **Enterprise Architecture**
+- 🌱 I’m currently learning **Enterprise Architecture & DS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davzshaw?tab=repositories](https://github.com/davzshaw?tab=repositories)
 
